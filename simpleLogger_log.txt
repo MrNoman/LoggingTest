@@ -1,0 +1,4 @@
+ноя 26, 2018 2:11:33 PM com.company.ErrClass doSomeThing
+WARNING: ErrClass WARNING
+ноя 26, 2018 2:11:33 PM com.company.ErrClass doSomeThing
+SEVERE: ErrClass SEVERE
